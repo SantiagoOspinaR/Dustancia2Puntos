@@ -1,0 +1,14 @@
+C:\ReposiLogic\Distancia2Puntos\Distancia2Puntos\Distancia2Puntos\obj\Debug\net6.0\Distancia2Puntos.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReposiLogic\Distancia2Puntos\Distancia2Puntos\Distancia2Puntos\obj\Debug\net6.0\Distancia2Puntos.AssemblyInfoInputs.cache
+C:\ReposiLogic\Distancia2Puntos\Distancia2Puntos\Distancia2Puntos\obj\Debug\net6.0\Distancia2Puntos.AssemblyInfo.cs
+C:\ReposiLogic\Distancia2Puntos\Distancia2Puntos\Distancia2Puntos\obj\Debug\net6.0\Distancia2Puntos.csproj.CoreCompileInputs.cache
+C:\ReposiLogic\Distancia2Puntos\Distancia2Puntos\Distancia2Puntos\bin\Debug\net6.0\Distancia2Puntos.exe
+C:\ReposiLogic\Distancia2Puntos\Distancia2Puntos\Distancia2Puntos\bin\Debug\net6.0\Distancia2Puntos.deps.json
+C:\ReposiLogic\Distancia2Puntos\Distancia2Puntos\Distancia2Puntos\bin\Debug\net6.0\Distancia2Puntos.runtimeconfig.json
+C:\ReposiLogic\Distancia2Puntos\Distancia2Puntos\Distancia2Puntos\bin\Debug\net6.0\Distancia2Puntos.dll
+C:\ReposiLogic\Distancia2Puntos\Distancia2Puntos\Distancia2Puntos\bin\Debug\net6.0\Distancia2Puntos.pdb
+C:\ReposiLogic\Distancia2Puntos\Distancia2Puntos\Distancia2Puntos\obj\Debug\net6.0\Distancia2Puntos.dll
+C:\ReposiLogic\Distancia2Puntos\Distancia2Puntos\Distancia2Puntos\obj\Debug\net6.0\refint\Distancia2Puntos.dll
+C:\ReposiLogic\Distancia2Puntos\Distancia2Puntos\Distancia2Puntos\obj\Debug\net6.0\Distancia2Puntos.pdb
+C:\ReposiLogic\Distancia2Puntos\Distancia2Puntos\Distancia2Puntos\obj\Debug\net6.0\Distancia2Puntos.genruntimeconfig.cache
+C:\ReposiLogic\Distancia2Puntos\Distancia2Puntos\Distancia2Puntos\obj\Debug\net6.0\ref\Distancia2Puntos.dll
